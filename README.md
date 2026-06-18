@@ -1,7 +1,7 @@
 # ⚡ Real-Time Stock Market Streaming Pipeline — Azure
 
 > Kafka + Databricks + Delta Lake (Medallion) + dbt + Power BI
-> Built by Ashok Chowdary | Senior Data Engineer
+> Built by Ashok Chowdary | Data Engineer
 
 ## Architecture
 
